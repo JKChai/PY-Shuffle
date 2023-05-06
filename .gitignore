@@ -1,0 +1,7 @@
+## Jin Kun Chai
+## 05/06/2023
+## Ignore archive dir
+archive/*
+
+## Ignore brain_data dir
+brain_data/*
